@@ -51,7 +51,6 @@ header ul li {
 
 /* header style end  */
 
-
 /* First section banner (16-inch MacBook Pro)
 style */
 .macbookPro {
@@ -112,4 +111,12 @@ style */
 .price-tag p {
   color: #86868b;
   font-size: 0.85em;
+}
+/* third section  iphone11 style */
+.iphone11 {
+  background-image: url(../Images/home/iphone11-bg.jpg);
+  height: 580px;
+  background-position: center;
+  text-align: center;
+  padding-top: 50px;
 }
